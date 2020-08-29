@@ -21,7 +21,7 @@
 
                 groceryList: [{
                     id: 0,
-                    text: '蔬菜'
+                    text: '蔬菜123'
                 }, {
                     id: 1,
                     text: '奶酪'
